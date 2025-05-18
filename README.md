@@ -149,3 +149,9 @@ json
 {
   "identificacion": "string"
 }
+
+## 📄 Documentación API (Swagger)
+
+Accede a la documentación Swagger desde el navegador:
+
+👉 [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
