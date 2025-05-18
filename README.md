@@ -151,7 +151,5 @@ json
 }
 
 ## 📄 Documentación API (Swagger)
-
-Accede a la documentación Swagger desde el navegador:
-
-👉 [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
+- UI: [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
+- JSON (OpenAPI): [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)
